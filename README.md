@@ -1,9 +1,9 @@
 # vidat_scripts
 
 
-Polygon Points and Spatial Interpolation Parameters:
+## Polygon Points and Spatial Interpolation
 
-Instructions: 
+### Instructions: 
 
 Modify the last cell with the following parameters
 
@@ -21,7 +21,7 @@ segments_B = A numpy array containing a 2D array showing the connecting between 
 
 
 
-Example of a monontonically decreasing polygon:
+### Example of a monontonically decreasing polygon:
 
 x = 12 # Number of frames
 
